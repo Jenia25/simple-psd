@@ -68,7 +68,7 @@
 }
 
 .overlay p{
-  color: #000000;
+  color: #fff;
 }
 
 
@@ -163,4 +163,5 @@
 .card.blue.active p {
   color: #000000;
 }
+
 
