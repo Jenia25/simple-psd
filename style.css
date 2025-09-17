@@ -67,10 +67,6 @@
   max-width: 700px;
 }
 
-.overlay p{
-  color: #fff;
-}
-
 
 .subtitle {
   color: #00aaff;
@@ -163,5 +159,6 @@
 .card.blue.active p {
   color: #000000;
 }
+
 
 
